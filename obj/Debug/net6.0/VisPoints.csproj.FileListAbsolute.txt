@@ -1,0 +1,15 @@
+C:\Users\passp\source\repos\VisPoints\bin\Debug\net6.0\VisPoints.exe
+C:\Users\passp\source\repos\VisPoints\bin\Debug\net6.0\VisPoints.deps.json
+C:\Users\passp\source\repos\VisPoints\bin\Debug\net6.0\VisPoints.runtimeconfig.json
+C:\Users\passp\source\repos\VisPoints\bin\Debug\net6.0\VisPoints.dll
+C:\Users\passp\source\repos\VisPoints\bin\Debug\net6.0\VisPoints.pdb
+C:\Users\passp\source\repos\VisPoints\obj\Debug\net6.0\VisPoints.csproj.AssemblyReference.cache
+C:\Users\passp\source\repos\VisPoints\obj\Debug\net6.0\VisPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\passp\source\repos\VisPoints\obj\Debug\net6.0\VisPoints.AssemblyInfoInputs.cache
+C:\Users\passp\source\repos\VisPoints\obj\Debug\net6.0\VisPoints.AssemblyInfo.cs
+C:\Users\passp\source\repos\VisPoints\obj\Debug\net6.0\VisPoints.csproj.CoreCompileInputs.cache
+C:\Users\passp\source\repos\VisPoints\obj\Debug\net6.0\VisPoints.dll
+C:\Users\passp\source\repos\VisPoints\obj\Debug\net6.0\refint\VisPoints.dll
+C:\Users\passp\source\repos\VisPoints\obj\Debug\net6.0\VisPoints.pdb
+C:\Users\passp\source\repos\VisPoints\obj\Debug\net6.0\VisPoints.genruntimeconfig.cache
+C:\Users\passp\source\repos\VisPoints\obj\Debug\net6.0\ref\VisPoints.dll
